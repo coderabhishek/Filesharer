@@ -7,7 +7,7 @@
 <html>
 <head>
 
- <title>Try v1.2 Bootstrap Online</title>
+ <title>Filesharer</title>
    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
    <script src="/scripts/jquery.min.js"></script>
    <script src="/bootstrap/js/bootstrap.min.js"></script>
